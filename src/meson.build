@@ -5,6 +5,8 @@ custom_target(
         'Cantarell-Thin.otf',
         'Cantarell-Light.otf',
         'Cantarell-Regular.otf',
+        'Cantarell-Medium.otf',
+        'Cantarell-Semibold.otf',
         'Cantarell-Bold.otf',
         'Cantarell-ExtraBold.otf',
     ],

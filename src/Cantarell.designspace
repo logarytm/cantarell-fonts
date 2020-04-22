@@ -5,6 +5,8 @@
       <map input="100" output="20"/>
       <map input="300" output="40"/>
       <map input="400" output="80"/>
+      <map input="500" output="100"/>
+      <map input="600" output="113"/>
       <map input="700" output="126"/>
       <map input="800" output="170"/>
     </axis>
@@ -39,6 +41,16 @@
     <instance stylename="Light">
       <location>
         <dimension name="Weight" xvalue="40"/>
+      </location>
+    </instance>
+    <instance stylename="Medium">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+    </instance>
+    <instance stylename="Semibold">
+      <location>
+        <dimension name="Weight" xvalue="113"/>
       </location>
     </instance>
     <instance stylename="Regular">
